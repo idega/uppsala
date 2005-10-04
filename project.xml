@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+  <pomVersion>3</pomVersion>
+  <extend>${idegaweb.application.content.project.dir}/project.xml</extend>
+  <name>eMemorial</name>
+  <groupId>iw-applications</groupId>
+  <artifactId>uppsala</artifactId>
+  <currentVersion>3.0.1-SNAPSHOT</currentVersion>
+  <inceptionYear>2005</inceptionYear>
+  <shortDescription>This is an application for the Vardkonto project for LUL (Uppsala)</shortDescription>
+  <developers>
+    <developer>
+      <name>Tryggvi Larusson</name>
+      <id>tryggvil</id>
+      <email>tryggvi@idega.is</email>
+      <organization>idega software</organization>
+    </developer>
+	<developer>
+      <name>Maris Orbidans</name>
+      <id>mariso</id>
+      <email>maris.orbidans@idega.lv</email>
+      <organization>idega Baltic</organization>
+    </developer>
+  </developers>
+  <dependencies>
+  </dependencies>
+</project>
+
