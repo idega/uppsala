@@ -2,7 +2,7 @@
 <project>
   <pomVersion>3</pomVersion>
   <extend>${idegaweb.application.content.project.dir}/project.xml</extend>
-  <name>eMemorial</name>
+  <name>ePlatform</name>
   <groupId>iw-applications</groupId>
   <artifactId>uppsala</artifactId>
   <currentVersion>3.0.1-SNAPSHOT</currentVersion>
