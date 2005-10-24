@@ -23,6 +23,34 @@
     </developer>
   </developers>
   <dependencies>
+          <dependency>
+          <groupId>bundles</groupId>
+          <artifactId>se.carelink.npo</artifactId>
+          <version>SNAPSHOT</version>
+          <type>iwbar</type>
+          <url>http://www.idega.com</url>
+        </dependency>
+		<dependency>
+          <groupId>bundles</groupId>
+          <artifactId>se.idega.ehealth.npo</artifactId>
+          <version>SNAPSHOT</version>
+          <type>iwbar</type>
+          <url>http://www.idega.com</url>
+        </dependency>
+		<dependency>
+          <groupId>bundles</groupId>
+          <artifactId>se.idega.ehealth</artifactId>
+          <version>SNAPSHOT</version>
+          <type>iwbar</type>
+          <url>http://www.idega.com</url>
+        </dependency>
+		<dependency>
+          <groupId>bundles</groupId>
+          <artifactId>se.idega.block.pki</artifactId>
+          <version>SNAPSHOT</version>
+          <type>iwbar</type>
+          <url>http://www.idega.com</url>
+        </dependency>
   </dependencies>
 </project>
 
