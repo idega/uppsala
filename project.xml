@@ -58,6 +58,27 @@
           <type>iwbar</type>
           <url>http://www.idega.com</url>
         </dependency>
+		<dependency>
+          <groupId>bundles</groupId>
+          <artifactId>com.idega.block.text</artifactId>
+          <version>SNAPSHOT</version>
+          <type>iwbar</type>
+          <url>http://www.idega.com</url>
+        </dependency>
+		<dependency>
+          <groupId>bundles</groupId>
+          <artifactId>com.idega.block.category</artifactId>
+          <version>SNAPSHOT</version>
+          <type>iwbar</type>
+          <url>http://www.idega.com</url>
+        </dependency>
+		<dependency>
+          <groupId>bundles</groupId>
+          <artifactId>com.idega.block.news</artifactId>
+          <version>SNAPSHOT</version>
+          <type>iwbar</type>
+          <url>http://www.idega.com</url>
+        </dependency>
   </dependencies>
 </project>
 
