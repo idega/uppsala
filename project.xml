@@ -51,6 +51,13 @@
           <type>iwbar</type>
           <url>http://www.idega.com</url>
         </dependency>
+		<dependency>
+          <groupId>bundles</groupId>
+          <artifactId>se.idega.util</artifactId>
+          <version>SNAPSHOT</version>
+          <type>iwbar</type>
+          <url>http://www.idega.com</url>
+        </dependency>
   </dependencies>
 </project>
 
