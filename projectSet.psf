@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<psf version="2.0">
+  <provider id="org.eclipse.team.cvs.core.cvsnature">
+    <project reference="1.0,:ext:code.idega.com:/idega/cvs,bundles/se.carelink.npo.bundle,se.carelink.npo">
+    </project>
+    <project reference="1.0,:ext:code.idega.com:/idega/cvs,bundles/se.idega.ehealth.npo.bundle,se.idega.ehealth.npo">
+    </project>
+    <project reference="1.0,:ext:code.idega.com:/idega/cvs,bundles/se.idega.ehealth.bundle,se.idega.ehealth">
+    </project>
+    <project reference="1.0,:ext:code.idega.com:/idega/cvs,bundles/se.idega.block.pki.bundle,se.idega.block.pki">
+    </project>
+    <project reference="1.0,:ext:code.idega.com:/idega/cvs,bundles/se.idega.util.bundle,se.idega.util">
+    </project>
+    <project reference="1.0,:ext:code.idega.com:/idega/cvs,bundles/com.idega.block.text.bundle,com.idega.block.text">
+    </project>
+    <project reference="1.0,:ext:code.idega.com:/idega/cvs,bundles/com.idega.block.category.bundle,com.idega.block.category">
+    </project>
+    <project reference="1.0,:ext:code.idega.com:/idega/cvs,bundles/com.idega.block.news.bundle,com.idega.block.news">
+    </project>
+    <project reference="1.0,:ext:code.idega.com:/idega/cvs,bundles/com.idega.block.navigation.bundle,com.idega.block.navigation">
+    </project>
+    <project reference="1.0,:ext:code.idega.com:/idega/cvs,bundles/com.idega.block.sms.bundle,com.idega.block.sms">
+    </project>
+    <project reference="1.0,:ext:code.idega.com:/idega/cvs,bundles/com.idega.content.bundle,com.idega.content">
+    </project>
+    <project reference="1.0,:ext:code.idega.com:/idega/cvs,bundles/com.idega.manager.bundle,com.idega.manager">
+    </project>
+    <project reference="1.0,:ext:code.idega.com:/idega/cvs,bundles/net.sourceforge.hsqldb.bundle,net.sourceforge.hsqldb">
+    </project>
+    <project reference="1.0,:ext:code.idega.com:/idega/cvs,bundles/com.idega.block.article.bundle,com.idega.block.article">
+    </project>
+    <project reference="1.0,:ext:code.idega.com:/idega/cvs,bundles/org.apache.slide.bundle,org.apache.slide">
+    </project>
+    <project reference="1.0,:ext:code.idega.com:/idega/cvs,bundles/com.idega.slide.bundle,com.idega.slide">
+    </project>
+    <project reference="1.0,:ext:code.idega.com:/idega/cvs,bundles/com.idega.core.bundle,com.idega.core">
+    </project>
+    <project reference="1.0,:ext:code.idega.com:/idega/cvs,bundles/org.apache.myfaces.bundle,org.apache.myfaces">
+    </project>
+    <project reference="1.0,:ext:code.idega.com:/idega/cvs,bundles/org.apache.axis.bundle,org.apache.axis">
+    </project>
+    <project reference="1.0,:ext:code.idega.com:/idega/cvs,bundles/com.idega.builder.bundle,com.idega.builder">
+    </project>
+    <project reference="1.0,:ext:code.idega.com:/idega/cvs,bundles/com.idega.block.login.bundle,com.idega.block.login">
+    </project>
+    <project reference="1.0,:ext:code.idega.com:/idega/cvs,bundles/com.idega.webface.bundle,com.idega.webface">
+    </project>
+    <project reference="1.0,:ext:code.idega.com:/idega/cvs,bundles/com.idega.workspace.bundle,com.idega.workspace">
+    </project>
+    <project reference="1.0,:ext:code.idega.com:/idega/cvs,bundles/com.idega.faces.bundle,com.idega.faces">
+    </project>
+    <project reference="1.0,:ext:code.idega.com:/idega/cvs,bundles/com.idega.block.media.bundle,com.idega.block.media">
+    </project>
+    <project reference="1.0,:ext:code.idega.com:/idega/cvs,bundles/com.idega.graphics.bundle,com.idega.graphics">
+    </project>
+    <project reference="1.0,:ext:code.idega.com:/idega/cvs,bundles/com.idega.developer.bundle,com.idega.developer">
+    </project>
+    <project reference="1.0,:ext:code.idega.com:/idega/cvs,bundles/com.idega.user.bundle,com.idega.user">
+    </project>
+    <project reference="1.0,:ext:code.idega.com:/idega/cvs,bundles/com.idega.block.entity.bundle,com.idega.block.entity">
+    </project>
+    <project reference="1.0,:ext:code.idega.com:/idega/cvs,bundles/com.idega.setup.bundle,com.idega.setup">
+    </project>
+  </provider>
+</psf>
