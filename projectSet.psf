@@ -18,6 +18,8 @@
     </project>
     <project reference="1.0,:ext:code.idega.com:/idega/cvs,bundles/com.idega.block.news.bundle,com.idega.block.news">
     </project>
+    <project reference="1.0,:ext:code.idega.com:/idega/cvs,bundles/com.idega.block.news.bundle,com.idega.block.image">
+    </project>
     <project reference="1.0,:ext:code.idega.com:/idega/cvs,bundles/com.idega.block.navigation.bundle,com.idega.block.navigation">
     </project>
     <project reference="1.0,:ext:code.idega.com:/idega/cvs,bundles/com.idega.block.sms.bundle,com.idega.block.sms">
