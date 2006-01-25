@@ -79,6 +79,13 @@
           <type>iwbar</type>
           <url>http://www.idega.com</url>
         </dependency>
+                <dependency>
+          <groupId>bundles</groupId>
+          <artifactId>com.idega.block.image</artifactId>
+          <version>SNAPSHOT</version>
+          <type>iwbar</type>
+          <url>http://www.idega.com</url>
+        </dependency>
 		<dependency>
           <groupId>bundles</groupId>
           <artifactId>com.idega.block.navigation</artifactId>
@@ -86,6 +93,14 @@
           <type>iwbar</type>
           <url>http://www.idega.com</url>
         </dependency>
+        <dependency>
+          <groupId>bundles</groupId>
+          <artifactId>com.idega.block.sms</artifactId>
+          <version>SNAPSHOT</version>
+          <type>iwbar</type>
+          <url>http://www.idega.com</url>
+        </dependency>
+
   </dependencies>
 </project>
 
